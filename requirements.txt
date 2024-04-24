@@ -1,0 +1,11 @@
+h5py==2.10.0
+keras==2.3.0
+matplotlib==3.3.4
+opencv-python==4.2.0.32
+pandas==0.25.0
+protobuf==3.13.0
+PyQt5==5.13.0
+QDarkstyle==2.7
+scikit-learn==0.22.2
+tensorflow-gpu==1.13.1
+tqdm==4.62.2
